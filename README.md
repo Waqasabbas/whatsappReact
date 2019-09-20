@@ -1,2 +1,2 @@
 # Ternary operator used in react
-- for running this you've to npm start it :)
+  some examples of how to use ternary operators in react.js if you want to do it in different way then https://reactjs.org/docs/conditional-rendering.html visit this site.....
