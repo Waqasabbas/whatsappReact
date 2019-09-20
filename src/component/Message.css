@@ -1,0 +1,42 @@
+img {
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+}
+
+.body {
+    margin-left: 1em;
+}
+
+li {
+    display: inline-flex;
+    align-items: center;
+    border: 1px solid #000000;
+    background-color: white;
+    
+    padding: 1em;
+    border-radius: 5px;
+    width: 300px;
+}
+
+p {
+    margin: 0;
+}
+span{
+    position: absolute;
+    top: 1em;
+    right: 1em;
+    background: green;
+    padding: 4px 10px;
+    border-radius: 12px;
+    color: white;
+}
+li{
+    display: flex;
+    align-items: flex-start;
+    padding: 1em 2em;
+    position: relative;
+    min-width: 400px;}
+.darksalmon{
+    background-color: #e9967a;
+}
